@@ -1,0 +1,16 @@
+{
+  "About": {
+    "Heading": "Про нас"
+  },
+  "Contact": {
+    "Heading": "Контакти"
+  },
+  "Home": {
+    "Heading": "Головна"
+  },
+  "Navbar": {
+    "About": "Про нас",
+    "Contact": "Контакти",
+    "Home": "Головна"
+  }
+}
